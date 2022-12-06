@@ -1,0 +1,5 @@
+#!/bin/bash
+Name="ls"
+echo "Name:"
+value=rm*
+echo "value:"
