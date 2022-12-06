@@ -1,2 +1,2 @@
-#!/bin/bash 
-touch dec2bin.bash && chmod +x "$_" && "$_"
+#!/bin/bash
+echo bin2dec && chmod +x
