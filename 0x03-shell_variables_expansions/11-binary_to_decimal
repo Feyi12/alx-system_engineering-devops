@@ -1,2 +1,2 @@
 #!/bin/bash
-echo bin2dec && chmod +x
+echo bin2dec
