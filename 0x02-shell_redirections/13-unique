@@ -1,2 +1,2 @@
 #!/bin/bash
-cat C# C Javascript Perl PHP PHP ASP Go C# C++ R Perl Javascript Javascript Python Javascript Javascript Javascript Java Java Python Javascript Javascript Javascript  ASP sort |uniq -u
+sort | uniq -u
