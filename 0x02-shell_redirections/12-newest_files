@@ -1,2 +1,2 @@
 #!/bin/bash
-$ ls sample_directory/ -Artls | head -10
+ls -t . | head
